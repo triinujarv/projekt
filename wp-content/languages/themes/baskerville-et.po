@@ -1,0 +1,391 @@
+# Translation of Baskerville in Estonian
+# This file is distributed under the same license as the Baskerville package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-09-27 07:25:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Baskerville\n"
+
+#. Theme Name of the plugin/theme
+msgid "Baskerville"
+msgstr "Baskerville"
+
+#: widgets/video-widget.php:9
+msgid "Video Widget"
+msgstr "Video Vidin"
+
+#: widgets/flickr-widget.php:9
+msgid "Flickr Widget"
+msgstr "Flickr Vidin"
+
+#: widgets/dribbble-widget.php:11
+msgid "Dribbble Widget"
+msgstr "Dribble Vidin"
+
+#. Template Name of the plugin/theme
+msgid "No sidebar template"
+msgstr "Puudub küljeriba mall"
+
+#. Template Name of the plugin/theme
+msgid "Full width template"
+msgstr "Täislaiusega mall"
+
+#: widgets/dribbble-widget.php:86
+msgid "Dribbble username"
+msgstr "Dribbble kasutajanimi"
+
+#: widgets/dribbble-widget.php:92 widgets/flickr-widget.php:71
+msgid "Number of images to display:"
+msgstr "Kuvatavate piltide arv:"
+
+#: widgets/flickr-widget.php:8
+msgid "Displays your latest Flickr photos."
+msgstr "Kuva oma viimased Flickr fotod."
+
+#: widgets/video-widget.php:8
+msgid "Displays a video of your choosing."
+msgstr "Kuva enda soovitud video."
+
+#. Template Name of the plugin/theme
+msgid "Archive template"
+msgstr "Arhiivi mall"
+
+#. Template Name of the plugin/theme
+msgid "Contributors template"
+msgstr "Kaasautori mall"
+
+#: widgets/flickr-widget.php:37
+msgid "More on Flickr"
+msgstr "Rohkem Flickr-is"
+
+#: widgets/flickr-widget.php:65
+msgid "Flickr ID (use <a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr "Flickr ID (kasuta <a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</a>):"
+
+#: widgets/dribbble-widget.php:80 widgets/flickr-widget.php:59
+#: widgets/video-widget.php:65
+msgid "Title"
+msgstr "Pealkiri"
+
+#: widgets/dribbble-widget.php:10
+msgid "Displays your latest Dribbble photos."
+msgstr "Kuva oma viimased Dribbble fotod."
+
+#: widgets/dribbble-widget.php:53
+msgid "Follow %s on Dribbble"
+msgstr "Jälgi %s Dribbble-is"
+
+#: template-contributors.php:88
+msgid "Twitter"
+msgstr "Twitter"
+
+#: template-contributors.php:85
+msgid "E-mail"
+msgstr "E-post"
+
+#: template-archives.php:101
+msgid "Archives by Year"
+msgstr "Arhiivid aasta kaupa"
+
+#: template-archives.php:107
+msgid "Archives by Month"
+msgstr "Arhiivid kuu kaupa"
+
+#: template-archives.php:113
+msgid "Archives by Day"
+msgstr "Arhiivid päevade kaupa"
+
+#: template-archives.php:95
+msgid "Contributors"
+msgstr "Kaasautorid"
+
+#: template-archives.php:84
+msgid "View all posts in %s"
+msgstr "Vaata kõiki postitusi rubriigis %s"
+
+#: template-archives.php:57
+msgid "Last 30 Posts"
+msgstr "Viimased 30 postitust"
+
+#: template-archives.php:71
+msgid "Archives by Categories"
+msgstr "Arhiivid kategooriate kaupa"
+
+#: template-archives.php:77
+msgid "Archives by Tags"
+msgstr "Arhiivid siltide kaupa"
+
+#: single.php:247
+msgid "Edit post"
+msgstr "Muuda postitust"
+
+#: single.php:243
+msgid "Next post"
+msgstr "Järgmine postitus"
+
+#: single.php:243
+msgid "Next post:"
+msgstr "Järgmine postitus:"
+
+#: single.php:235
+msgid "Previous post"
+msgstr "Eelmine postitus"
+
+#: single.php:177
+msgid "Author archive"
+msgstr "Autor Arhiiv"
+
+#: single.php:235
+msgid "Previous post:"
+msgstr "Eelmine postitus:"
+
+#: single.php:185
+msgid "Author website"
+msgstr "Autori veebileht"
+
+#: single.php:203
+msgid "on Twitter"
+msgstr "Twitteris"
+
+#: searchform.php:3
+msgid "Search"
+msgstr "Otsi"
+
+#: search.php:55
+msgid "No results. Try again, would you kindly?"
+msgstr "Pole otsingu tulemusi. Kas sa palun prooviksid uuesti?"
+
+#: search.php:7
+msgid "Search results"
+msgstr "Otsitulemused"
+
+#: image.php:34
+msgid "About the attachment"
+msgstr "Info manuse kohta"
+
+#: image.php:57 page.php:57 single.php:263 template-archives.php:135
+#: template-fullwidth.php:67 template-nosidebar.php:65
+msgid "We couldn't find any posts that matched your query. Please try again."
+msgstr "Ei leidnud sinu kriteeriumitele vastavat postitust. Palun proovi uuesti."
+
+#: index.php:15
+msgid "Page %s of %s"
+msgstr "Lehekülg %s/%s"
+
+#: functions.php:450 functions.php:464
+msgid "Logo"
+msgstr "Logo"
+
+#: functions.php:442
+msgid "Baskerville Options"
+msgstr "Baskerville seaded"
+
+#: functions.php:445
+msgid "Allows you to customize some settings for Baskerville."
+msgstr "Lubab sul muuta mõnda Baskerville seadistust."
+
+#: functions.php:358
+msgid "Awaiting moderation"
+msgstr "Ootab ülevaatamist"
+
+#: functions.php:409
+msgid "Show email"
+msgstr "Kuva e-posti"
+
+#: functions.php:413
+msgid "Check if you want to display your email address in single posts and the contributors page template."
+msgstr "Märgista, kui soovid oma e-posti aadressi näitamist üksikutel postitustel ja kaasautori lehekülje mallil."
+
+#: widgets/video-widget.php:71
+msgid "Video URL"
+msgstr "Video URL"
+
+#: functions.php:346 functions.php:370
+msgid "Reply"
+msgstr "Vasta"
+
+#: functions.php:344 functions.php:368
+msgid "Edit"
+msgstr "Muuda"
+
+#: functions.php:318
+msgid "(Edit)"
+msgstr "(Muuda)"
+
+#: functions.php:318
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:217
+msgid "Continue Reading"
+msgstr "Jätka lugemist"
+
+#: functions.php:128
+msgid "Widgets in this area will be shown in the sidebar."
+msgstr "Selle ala vidinaid näidatakse küljepaanil."
+
+#: functions.php:126
+msgid "Sidebar"
+msgstr "Küljepaan"
+
+#: footer.php:131
+msgid "Up"
+msgstr "Üles"
+
+#: functions.php:99
+msgid "Footer A"
+msgstr "Jalus A"
+
+#: functions.php:101
+msgid "Widgets in this area will be shown in the left column in the footer."
+msgstr "Selle ala vidinaid näidatakse jaluse vasakus veerus."
+
+#: functions.php:108
+msgid "Footer B"
+msgstr "Jalus B"
+
+#: functions.php:110
+msgid "Widgets in this area will be shown in the middle column in the footer."
+msgstr "Selle ala vidinaid näidatakse jaluse keskmises veerus."
+
+#: functions.php:117
+msgid "Footer C"
+msgstr "Jalus C"
+
+#: functions.php:119
+msgid "Widgets in this area will be shown in the right column in the footer."
+msgstr "Selle ala vidinaid näidatakse jaluse paremas veerus."
+
+#: footer.php:131
+msgid "To the top"
+msgstr "Ülemiseks"
+
+#: footer.php:62 sidebar.php:27
+msgid "Latest posts"
+msgstr "Viimased postitused"
+
+#: footer.php:103 sidebar.php:49
+msgid "Text widget"
+msgstr "Teksti vidin"
+
+#: footer.php:104 sidebar.php:53
+msgid "These widgets are displayed because you haven't added any widgets of your own yet. You can do so at Appearance > Widgets in the WordPress settings."
+msgstr "Neid vidinaid näidatakse, kuna sa ei ole oma vidinaid veel lisanud. Sa saad seda teha kui lähed Välimus > Moodulid Wordpressi seadetes."
+
+#: footer.php:125
+msgid "Powered by <a href=\"%s\">WordPress</a>"
+msgstr "Ehitatud <a href=\"%s\">WordPress</a> platvormile"
+
+#: footer.php:131
+msgid "Theme by <a href=\"%s\">Anders Noren</a>"
+msgstr "Teema autor <a href=\"%s\">Anders Noren</a>"
+
+#: footer.php:27 searchform.php:2
+msgid "Search form"
+msgstr "Otsing"
+
+#: content-aside.php:11 content-audio.php:7 content-gallery.php:5
+#: content-image.php:1 content-image.php:7 content-link.php:8
+#: content-quote.php:5 content-video.php:5 content.php:5
+msgid "Sticky post"
+msgstr "Esilehepostitus"
+
+#: comments.php:99 template-contributors.php:87
+msgid "Website"
+msgstr "Veebileht"
+
+#: comments.php:96
+msgid "Email"
+msgstr "E-post"
+
+#: comments.php:93
+msgid "Name"
+msgstr "Nimi"
+
+#: comments.php:84
+msgid "Your email address will not be published."
+msgstr "Sinu e-postiaadressi ei avaldata."
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Kommenteerimine on suletud."
+
+#: comments.php:63
+msgid "Newer Comments"
+msgstr "Uuemad kommentaarid"
+
+#: comments.php:61
+msgid "Older Comments"
+msgstr "Vanemad kommentaarid"
+
+#: comments.php:22
+msgid "Add yours"
+msgstr "Lisa enda oma"
+
+#: comments.php:43
+msgid "Pingback"
+msgid_plural "Pingbacks"
+msgstr[0] "Tagasiviide"
+msgstr[1] "Tagasiviited"
+
+#: comments.php:16
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] "kommentaar"
+msgstr[1] "kommentaari"
+
+#: archive.php:64 index.php:55 search.php:41
+msgid "Newer posts"
+msgstr "Uuemad postitused"
+
+#: archive.php:62 index.php:53 search.php:39
+msgid "Older posts"
+msgstr "Vanemad postitused"
+
+#: archive.php:21
+msgid "Archive"
+msgstr "Arhiiv"
+
+#: archive.php:19
+msgid "Author"
+msgstr "Autor"
+
+#: archive.php:16
+msgid "Tag"
+msgstr "Silt"
+
+#: archive.php:14
+msgid "Category"
+msgstr "Kategooria"
+
+#: archive.php:12
+msgid "Year"
+msgstr "Aasta"
+
+#: archive.php:10
+msgid "Month"
+msgstr "Kuu"
+
+#: archive.php:8
+msgid "Date"
+msgstr "Kuupäev"
+
+#: 404.php:13
+msgid "Error 404"
+msgstr "Viga 404"
+
+#. Author of the plugin/theme
+msgid "Anders Norén"
+msgstr "Anders Norén"
+
+#. Author URI of the plugin/theme
+msgid "http://www.andersnoren.se"
+msgstr "http://www.andersnoren.se"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.andersnoren.se/teman/baskerville-wordpress-theme/"
+msgstr "http://www.andersnoren.se/teman/baskerville-wordpress-theme/"
